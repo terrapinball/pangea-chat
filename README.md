@@ -1,9 +1,5 @@
 # Real-time Chat App project
 
-## Code challenge project for interview with Myti
-
-This project was self-assigned with no real objectives other than to demonstrate abilities in a limited time frame.
-
 ---
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
